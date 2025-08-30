@@ -1,15 +1,11 @@
 # Olá, me chamo Matias Henrique Correia Brighente ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou fazendo o curso de "Desenvolvedor Full Stack Python" na Ebac, e futuramente pretendo fazer um curso superior de "análise e desenvolvimento de sistemas".
-
-- 🔭 Estou migrando para area de tecnologia e ainda não possuo experiência, mas quero iniciar minha carreira o quanto antes.
-
-- 🤔 Estou procurando ajuda para melhorar meus estudos e me tornar um profissional melhor.
-  
-- 👯 Estou procurando colaborar em projetos onde posso auxiliar como aprendiz para adquirir experiência. 
-    
-- ⚡ Curiosidade: Tenho 21 anos, nasci e moro em Londrina,Pr. Após terminar o ensino médio fiquei um tempo apenas trabalhando, sem area de atuação especifica,
+  Atualmente estou fazendo o curso de "Desenvolvedor Full Stack Python" na Ebac, e futuramente pretendo fazer um curso superior de "análise e desenvolvimento de sistemas".
+  Estou migrando para area de tecnologia e ainda não possuo experiência, mas quero iniciar minha carreira o quanto antes.
+  Estou procurando ajuda para melhorar meus estudos e me tornar um profissional melhor.
+  Estou procurando colaborar em projetos onde posso auxiliar como aprendiz para adquirir experiência.   
+  Curiosidade: Tenho 21 anos, nasci e moro em Londrina,Pr. Após terminar o ensino médio fiquei um tempo apenas trabalhando, sem area de atuação especifica,
   pensando em um futuro onde eu posso ter uma qualidade de vida melhor, voltei aos estudos escolhendo desenvolvimento de software coomo profissão.
 
 - 📫 Como entrar em contato comigo:  
